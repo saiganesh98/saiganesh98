@@ -1,16 +1,17 @@
-## Hi there 👋
+Hi there 👋
+I'm Sai Ganesh (He/Him), a Senior Software Engineer with over 5 years of experience in Automation Testing and AI-driven solutions.
 
-<!--
-**saiganesh98/saiganesh98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔭 I’m currently automating everything but my coffee—still working on that!
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 Always learning, because even code needs to grow. “Learning never exhausts the mind.”
+
+👯 Let’s collaborate on projects that need a touch of automation magic! "Alone we can do so little; together we can do so much."
+
+💬 Ask me about Automation Frameworks, Competitive Programming, or why my tests always pass on the first try... (Just kidding, that's the dream!)
+
+📫 How to reach me: LinkedIn
+
+😄 Pronouns: He/Him
+
+⚡ Fun fact: Debugging is like being the detective in a crime movie where you are also the murderer!
